@@ -1,0 +1,16 @@
+<flores>
+    <flor id="8a939645-7c3f-42b5-9c44-d9fe31583494">
+        <nome>Girassol</nome>
+        <cor>Amarelo</cor>
+        <preco>16.9</preco>
+        <data>10/03/2024</data>
+        <especie>Helianthus annuus L.</especie> 
+    </flor>
+    <flor id="eb645462-246a-477e-a250-d70a154a168f">
+      <nome>Crisantemo</nome>
+      <cor>Multicolorido</cor>
+      <preco>10.4</preco>
+      <data>05/03/2024</data>
+      <especie>Chrysanthemum</especie>
+    </flor>
+<flor id="45793568-a1e0-48d8-a67a-cefe20afba58"><nome>adasda</nome><cor>asdadsa</cor><preco>70.0</preco><data>09/09/1900</data><especie>dkfjskfjs</especie></flor><flor id="fc0af35e-263e-4b41-ab91-9374faa24bd4"><nome>Lirio-do-Vale</nome><cor>Branco</cor><preco>19.9</preco><data>09/09/1900</data><especie>Convallaria majalis</especie></flor></flores>
